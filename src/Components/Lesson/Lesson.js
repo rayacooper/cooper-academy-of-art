@@ -4,7 +4,9 @@ import './Lesson.css'
 class Lesson extends Component {
     render() {
         return (
-            <div></div>
+            <div className='lesson-main'>
+                
+            </div>
         )
     }
 };
