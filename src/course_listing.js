@@ -4,31 +4,36 @@ const course_listing = [
     {
         title: 'Art Fundamentals',
         image: '#',
-        location: 'art_fundamentals'
+        location: 'art_fundamentals',
+        frames: []
     },
 
     {
         title: 'Drawing Portraits',
         image: '#',
-        location: 'drawing_portraits'
+        location: 'drawing_portraits',
+        frames: []
     },
 
     {
         title: 'Drawing Animals',
         image: '#',
-        location: 'drawing_animals'
+        location: 'drawing_animals',
+        frames: []
     },
 
     {
         title: 'Watercolor Painting',
         image: '#',
-        location: 'watercolor_painting'
+        location: 'watercolor_painting',
+        frames: []
     },
 
     {
         title: 'Just For Fun Projects',
         image: '#',
-        location: 'just_for_fun'
+        location: 'just_for_fun',
+        frames: []
     }
 
 ];
